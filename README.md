@@ -14,3 +14,5 @@ You are playing against the bot. If you exit before the game is over. When you w
 
 It is for educational purposes. It is available for use.  
 
+![image](https://github.com/Ayberkyvs/rps-with-savesystem/assets/35408256/075ca721-286a-4393-9c16-d6529412816f)
+![image](https://github.com/Ayberkyvs/rps-with-savesystem/assets/35408256/d3b75b64-f861-4906-8262-51ca15fd7ecb)
